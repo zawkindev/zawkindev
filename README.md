@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zawkindev
 - 🌱 I’m currently practicing html, css, js for now.
-- 📫 How to reach me https://t.me/zawkin | https://t.me/kalidzodev
+- 📫 How to reach me https://t.me/zawkin
 - ~ I use arch btw ~ 
 
 <!---
