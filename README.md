@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zawkindev
-- 🌱 I’m currently practicing html, css, js for now.
+- 🌱 I have learnt swift, java, python, typescript, reactJS, react native. I’m currently practicing js for now.
 - 📫 How to reach me https://t.me/zawkin
 - ~ I use arch btw ~ 
 
