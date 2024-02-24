@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zawkindev
 - 🌱 I have learnt swift, java, python, typescript, reactJS, react native. I’m currently practicing VueJS for now.
-- 📫 How to reach me: https://t.me/zawkin
+- 📫 How to reach me: t.me/zawkin
 - ~ I use arch btw ~ 
 
 -*「 Mayl sekn seknde😁 」*
