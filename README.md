@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zawkindev
-- 🌱 I have learnt swift, java, python, typescript, reactJS, react native. I’m currently practicing VueJS for now.
+- 🌱 I have learnt swift, java, python, typescript, reactJS, react native. I’m practicing VueJS and Rust for now.
 - 📫 How to reach me: https://t.me/zawkin
 - ~ I use arch btw ~ 
 
