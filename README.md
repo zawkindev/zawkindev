@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zawkindev
-- 🌱 I have learnt swift, java, python, typescript, C++, react and vue. I’m practicing Go for now.
+- 🌱 I have learnt swift, java, python, typescript, c++, react and vue. I’m practicing go for now.
 - 📫 How to reach me: https://t.me/zawkin
 - ~ I use arch btw ~ 
 
