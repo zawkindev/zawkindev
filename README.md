@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zawkindev
-- 🌱 I have learnt Swift, Java, Python, Typescript, C++, React and Vue. I’m practicing Go for now.
+- 🌱 I have learnt Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing Java Spring for now.
 - 📫 How to reach me: https://t.me/zawkin
-- ~ I use arch btw ~ 
+- ~ I use NixOS btw ~ 
 
 <!---
 zawkindev/zawkindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
