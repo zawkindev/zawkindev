@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zawkindev
-- 🌱 I have learnt Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing Java Spring, nix, C and Rust for now.
+- 🌱 I have learnt Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing nix, gin, C and Rust for now.
 - 📫 How to reach me: https://t.me/zawkin | zawkindev@gmail.com
 - ~ I use NixOS btw ~ 
 
