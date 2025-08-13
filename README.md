@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @zawkindev
+- 👋 Hi, I’m developer
 - 🌱 I have learnt Swift, Java, Go, Python, Typescript, C++, React and Vue. I’m practicing nix, gin, C and Rust for now.
-- 📫 zawkindev@gmail.com
 - ~ I use NixOS btw ~ 
 
 <!---
